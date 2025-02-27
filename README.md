@@ -1,2 +1,2 @@
-# HDI
-Human Development index Project
+# Human Development index Project
+
